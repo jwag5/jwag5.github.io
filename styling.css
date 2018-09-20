@@ -1,0 +1,79 @@
+.backing {
+  background-image: url("https://www.colourbox.com/preview/10725277-code-background.jpg");
+  height: 100%;
+  background-size: cover;
+}
+
+.navigation {
+  position: fixed;
+  z-index: 100;
+  width: 100%;
+  height: 100px;
+  color: white;
+  background: #BBBBBB;
+}
+
+.btn {
+  padding: 5px;
+  margin-top: 30px;
+  background: black;
+}
+
+.title {
+  margin-top: 30px;
+  font: Garamound;
+}
+
+.top {
+  margin-top: 100px
+}
+
+.header-image {
+  padding-top:;
+  margin: auto;
+  /*width: 350px;*/
+  width: 100%;
+  border-radius: 50%;
+}
+
+.social-links {
+  font-size: 50px;
+}
+
+.fa-linkedin {
+  color: #0077B5;
+}
+
+.fa-github {
+  color: #6e5494;
+}
+
+.fa-free-code-camp {
+  color: #006400;
+}
+
+.header-body {
+  font-size: 18px;
+}
+
+.header {
+  font-size: 50px;
+}
+
+.portfolio-image {
+  height: 350px;
+  /*width: 600px;*/
+  width: 100%;
+}
+
+.left {
+  padding: 20px 10px 20px 20px;
+}
+
+.right {
+  padding: 20px 20px 20px 10px;
+}
+
+.footer {
+  background: #BBBBBB;
+}
